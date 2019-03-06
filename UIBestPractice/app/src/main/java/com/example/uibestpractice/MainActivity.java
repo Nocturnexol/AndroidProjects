@@ -50,5 +50,6 @@ public class MainActivity extends AppCompatActivity {
         msgList.add(new Msg("Hello guy.", Msg.TYPE_RECEIVED));
         msgList.add(new Msg("Hello. Who is that?", Msg.TYPE_SENT));
         msgList.add(new Msg("This is Tom. Nice talking to you.", Msg.TYPE_RECEIVED));
+        msgList.add(new Msg("This is Jack. Nice talking to you.", Msg.TYPE_SENT));
     }
 }
